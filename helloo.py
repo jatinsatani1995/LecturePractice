@@ -1,0 +1,1 @@
+print("hello mantra","djdvdsjsdfg","jdfvhdhdu",sep=" _#@$% ")
