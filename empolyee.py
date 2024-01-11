@@ -21,6 +21,7 @@ class employee:
         print("Employee Salary: ", self.salary)
         print("Employee Department: ", self.department)
         
+       
 employee1 = employee("ADAMS", "E7876", 50000, "ACCOUNTING")
 employee2 = employee("JONES", "E7499", 45000, "RESEARCH")
 employee3 = employee("MARTIN", "E7900", 50000, "SALES")
