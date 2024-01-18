@@ -20,6 +20,7 @@ class employee:
         print("Employee ID: ", self.id)
         print("Employee Salary: ", self.salary)
         print("Employee Department: ", self.department)
+       
         
        
 employee1 = employee("ADAMS", "E7876", 50000, "ACCOUNTING")
