@@ -8,8 +8,6 @@ totalmarks=marks1+marks2+marks3+marks4+marks5
 average=totalmarks/5
 
 
-
-
 if(marks1>=50 and marks2>=50 and marks3>=50 and marks4>=50 and marks5>=50):
 
     if average>=90 and average<=100:
